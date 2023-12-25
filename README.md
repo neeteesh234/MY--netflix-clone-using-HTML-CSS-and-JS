@@ -1,3 +1,3 @@
-# managed by nitish kumar
+# Auther nitish kumar
 
 new commit git.
