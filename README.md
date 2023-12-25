@@ -1,3 +1,3 @@
 # managed by nitish kumar
 
-new commitgit
+new commit git.
