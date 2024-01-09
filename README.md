@@ -1,2 +1,3 @@
-managed by nitish kumar
-new commitgit
+# Auther nitish kumar
+
+new commit git.
